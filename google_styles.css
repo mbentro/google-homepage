@@ -1,0 +1,32 @@
+#google-logo{
+    height:92px;
+    width:272px;     
+    left: calc(50% - 272px/2);
+    position: relative;   
+}
+
+.topnav-right, .topnav-left{
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+}
+
+.topbar-right{
+    float: right;
+    justify-content: flex-end;
+    
+}
+
+.topbar-left{
+    float: left;
+    justify-content: left;
+}
+
+.topbar{
+    height: 200px;
+}
+
+.button-bar{
+    margin-top: 20px;
+}
